@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.dark-bg {
+  background-color: #000000;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light-bg {
+  background-color: white;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-home-heading {
+  font-weight: bold;
+  font-size: 27px;
+  font-family: 'roboto';
+  color: white;
+}
+.home-image {
+  height: 170px;
+  width: 170px;
+}
